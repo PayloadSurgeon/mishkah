@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://payloadsurgeon.github.io/mishkah/sitemap.xml
